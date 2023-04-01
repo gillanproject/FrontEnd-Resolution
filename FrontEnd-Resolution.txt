@@ -1,0 +1,3 @@
+FrontEnd-Resolution
+- Konsisten untuk belajar Front-End 4x seminggu
+- Membuat Project Website sederhana untuk FrontEnd
